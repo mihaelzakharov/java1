@@ -12,7 +12,8 @@ public class HomeWorkForLessonTwo {
         System.out.println(forScreen); // в задаче нет,но выведение в консоль нагляднее показывает работу метода//
 
         printWordNTimes ("Задача написать слово word 10 раз", 10);
-    }
+
+           }
 
     public static boolean within10and20(int x, int y) {
 
@@ -51,4 +52,5 @@ public class HomeWorkForLessonTwo {
 
 
 
-}
+        }
+
